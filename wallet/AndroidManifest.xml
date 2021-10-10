@@ -8,7 +8,6 @@
     android:versionName="8.17">
 
     <uses-sdk
-        android:minSdkVersion="23"
         android:targetSdkVersion="29"
         tools:ignore="OldTargetApi" />
 
